@@ -9,3 +9,5 @@ Our graph-based algorithm is an adaptation of [Links](https://arxiv.org/abs/1801
 Our algorithm outperforms simple enroll enrichment in terms of average EER:
 
 (0.272 - 0.196 - 0.175 for n=2, 0.415 - 0.387 - 0.299 for n=4, 0.565 - 0.455 - 0.401 for n=6 after 1000 simulations)
+
+Implementation is mainly written in embs.ipynb
